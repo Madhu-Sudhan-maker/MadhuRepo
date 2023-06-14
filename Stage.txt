@@ -1,4 +1,2 @@
 Doing Staging in GitHub
 Changes dong in .git
-Modified in cdt branch
-Modifying the data for checking merge option.
