@@ -1,3 +1,4 @@
 Doing Staging in GitHub
 Changes dong in .git
 Modified in master branch
+Mergin one branch to another branch (main to stage)
