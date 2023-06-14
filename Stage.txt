@@ -1,4 +1,4 @@
 Doing Staging in GitHub
 Changes dong in .git
 Modified in master branch
-Merging one branch to another branch
+Meging one branch to another branch
